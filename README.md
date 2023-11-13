@@ -1,10 +1,11 @@
 # Netflix_SQL
 
-<h5>Problem Statement:</h5>
+<h3>Problem Statement:</h3>
 <br>
-<p>Netflix aims to gain valuable insights into their shows and movies from extensive datasets, comprising around 82,000 rows of data. However, the challenge lies in effectively analyzing and extracting meaningful information from this vast dataset. To address this, Netflix is seeking a robust and scalable data analytics solution to handle the large volume of data and reveal important patterns and trends.</p>
-<br><br>
-<h5>To assist Netflix in gaining insights from their extensive movies and shows dataset, I'll use SQL and Tableau. Using SQL functions, I'll extract key metrics like viewer ratings, genre preferences, and viewership patterns. With Tableau, I'll create an interactive dashboard, presenting findings through visually appealing charts and graphs, allowing Netflix stakeholders to explore data dynamically.</h5>
+<p>Netflix aims to gain valuable insights into their shows and movies from extensive datasets, comprising around 82,000 rows of data. However, the challenge lies in effectively analyzing and extracting meaningful information from this vast dataset. To address this, Netflix seeks a robust and scalable data analytics solution to handle the large volume of data and reveal important patterns and trends.</p>
+<be>
+<h3>My Solution:</h3>
+<p>To assist Netflix in gaining insights from their extensive movies and shows dataset, I'll use SQL and Tableau. Using SQL functions, I'll extract key metrics like viewer ratings, genre preferences, and viewership patterns. With Tableau, I'll create an interactive dashboard, presenting findings through visually appealing charts and graphs, allowing Netflix stakeholders to explore data dynamically.</p>
 
 <H6>Tools Used:</H6><p>Excel,SQL,Tableau</p>
 
