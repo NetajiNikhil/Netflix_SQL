@@ -7,7 +7,7 @@
 <h3>My Solution:</h3>
 <p>To assist Netflix in gaining insights from their extensive movies and shows dataset, I'll use SQL and Tableau. Using SQL functions, I'll extract key metrics like viewer ratings, genre preferences, and viewership patterns. With Tableau, I'll create an interactive dashboard, presenting findings through visually appealing charts and graphs, allowing Netflix stakeholders to explore data dynamically.</p>
 
-<H6>Tools Used:</H6><p>Excel,SQL,Tableau</p>
+<H3>Tools Used:</H3><p>Excel,SQL,Tableau</p>
 
 
 ## Questions I Wanted To Answer From the Dataset:
