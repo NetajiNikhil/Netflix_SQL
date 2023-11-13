@@ -9,6 +9,8 @@
 
 <H3>Tools Used:</H3><p>Excel,SQL,Tableau</p>
 
+[Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
+
 
 ## Questions I Wanted To Answer From the Dataset:
 
